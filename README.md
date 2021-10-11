@@ -1,6 +1,6 @@
 # MSI B360M MORTAR OpenCore EFI （0.7.3）
 
-#### Thank OpenCore 🎉
+#### Thank OpenCore 🎉 (Please 👉 [Official Install Guide](https://dortania.github.io/OpenCore-Install-Guide) As a Start)
 ---
 ### My Main Hardware Configuration
 | Hardware | Type |
@@ -15,15 +15,17 @@
 #### My main purpose is to use it as a home NAS, which is online 7x24 hours. From opencore 0.5 to now, it has been running well.
 ---
 ### My EFI 
-| File | Version | Committed |
-| :--- | :--- | :--- |
-| OpenCore | 0.7.3 | 07cb6b6 |
-| VirtualSMC | 1.2.7 | 217c744 |
-| Lilu | 1.5.6 | 8b2d712 |
-| WhateverGreen | 1.5.3 | cfdc85f |
-| AppleALC | 1.6.4 | 66949d7 |
-| IntelMausi | 1.0.7 | 7cdb383 |
-| NVMeFix | 1.0.9 | 92c4558 |
+| File | Version | Committed | Sources |
+| :--- | :--- | :--- | :--- |
+| OpenCore | 0.7.3 | 07cb6b6 | [Visit Official](https://github.com/acidanthera/OpenCorePkg/releases) |
+| VirtualSMC | 1.2.7 | 217c744 | [Visit Official](https://github.com/acidanthera/VirtualSMC/releases) |
+| Lilu | 1.5.6 | 8b2d712 | [Visit Official](https://github.com/acidanthera/Lilu/releases) |
+| WhateverGreen | 1.5.3 | cfdc85f | [Visit Official](https://github.com/acidanthera/WhateverGreen/releases) |
+| AppleALC | 1.6.4 | 66949d7 | [Visit Official](https://github.com/acidanthera/AppleALC/releases) |
+| IntelMausi | 1.0.7 | 7cdb383 | [Visit Official](https://github.com/acidanthera/IntelMausi/releases) |
+| NVMeFix | 1.0.9 | 92c4558 | [Visit Official](https://github.com/acidanthera/NVMeFix/releases) |
+
+
 
 
 
