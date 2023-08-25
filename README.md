@@ -24,6 +24,7 @@
 | AppleALC | 1.8.5 | f46943e | [Release](https://github.com/acidanthera/AppleALC/releases) | [Latest Builds](https://dortania.github.io/builds/?product=AppleALC&viewall=true) |
 | IntelMausi | 1.0.8 | 1582768 | [Release](https://github.com/acidanthera/IntelMausi/releases) | [Latest Builds](https://dortania.github.io/builds/?product=IntelMausi&viewall=true) |
 | NVMeFix | 1.1.2 | 8680dde | [Release](https://github.com/acidanthera/NVMeFix/releases) | [Latest Builds](https://dortania.github.io/builds/?product=NVMeFix&viewall=true) |
+| USBInjectAll | 0.78 |  | | |
 
 
 
