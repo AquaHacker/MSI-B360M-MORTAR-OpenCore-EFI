@@ -12,9 +12,10 @@
 | Hard Disk | TOSHIBA P300 3TB 64MB 7200RPM SATA x 2 (PMR) <br> WD 1TB 64MB 7200RPM SATA (PMR) |
 | Chassis | GAMEMAX HTPC （Include Power 230W）|
 
-#### My main purpose is to use it as a home NAS, which is online 7x24 hours. From opencore 0.5 to now, it has been running well.
+#### My primary purpose is to use it as a home NAS, which is online 7x24 hours. From OpenCore 0.5 to now, it has been running well.
 ---
 ### My EFI 
+#### My EFI Primary Document Source.
 | File | Version | Committed | Recommend | Latest |
 | :--- | :--- | :--- | :--- | :--- |
 | OpenCore | 0.9.5 | b71e159 | [Release](https://github.com/acidanthera/OpenCorePkg/releases) | [Latest Builds](https://dortania.github.io/builds/?product=OpenCorePkg&viewall=true) |
@@ -26,6 +27,8 @@
 | NVMeFix | 1.1.2 | 8680dde | [Release](https://github.com/acidanthera/NVMeFix/releases) | [Latest Builds](https://dortania.github.io/builds/?product=NVMeFix&viewall=true) |
 | USBInjectAll | 0.7.8 | | | |
 | USBMap | 1.1 | | | |
+
+---
 
 
 
