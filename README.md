@@ -15,7 +15,7 @@
 #### My main purpose is to use it as a home NAS, which is online 7x24 hours. From opencore 0.5 to now, it has been running well.
 ---
 ### My EFI 
-| File | Version | Committed | Release | Latest Builds |
+| File | Version | Committed | Source |
 | :--- | :--- | :--- | :--- | :--- |
 | OpenCore | 0.9.5 | b71e159 | [Release](https://github.com/acidanthera/OpenCorePkg/releases) | [Latest Builds](https://dortania.github.io/builds/?product=OpenCorePkg&viewall=true) |
 | VirtualSMC | 1.3.3 | 038200e | [Release](https://github.com/acidanthera/VirtualSMC/releases) | [Latest Builds](https://dortania.github.io/builds/?product=VirtualSMC&viewall=true) |
